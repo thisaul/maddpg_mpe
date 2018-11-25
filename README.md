@@ -1,5 +1,4 @@
-
-# MADDPG_MPE
+DDPG_MPE
 
 Tensorflow Implementation of the MADDPG algorithm from [*Multi-Agent Actor-Critic for Mixed
 Cooperative-Competitive Environments*](https://arxiv.org/abs/1706.02275) (Lowe et. al. 2017)
