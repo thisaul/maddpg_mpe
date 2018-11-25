@@ -6,7 +6,7 @@ Cooperative-Competitive Environments*](https://arxiv.org/abs/1706.02275) (Lowe e
 
 ## Requirements
 
-* [Multiagent-Particle Environments (MPE)](https://github.com/shariqiqbal2810/multiagent-particle-envs)
+* [Multiagent-Particle Environments (MPE)](https://github.com/openai/multiagent-particle-envs)
 * dependencies: Python (3.5.4), OpenAI Gym (0.10.5), NumPy (1.14.5)
 
 ## Code structure
